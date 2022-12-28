@@ -1,0 +1,3 @@
+Book: https://rust-book.cs.brown.edu
+
+Last chapter: https://rust-book.cs.brown.edu/ch02-00-guessing-game-tutorial.html
