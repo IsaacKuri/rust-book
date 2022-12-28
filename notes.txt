@@ -1,3 +1,6 @@
 Book: https://rust-book.cs.brown.edu
 
-Last chapter: https://rust-book.cs.brown.edu/ch02-00-guessing-game-tutorial.html
+Last chapter
+    https://rust-book.cs.brown.edu/ch03-00-common-programming-concepts.html
+Last Line
+    Init
