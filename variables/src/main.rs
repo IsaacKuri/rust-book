@@ -146,15 +146,3 @@
 //     println!("{}", a[0] + t.1[0]);
 
 // }
-
-// Functions
-
-fn main() {
-    println!("Hello, world!");
-
-    another_function();
-}
-
-fn another_function() {
-    println!("Another function.");
-}
