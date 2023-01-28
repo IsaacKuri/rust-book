@@ -1,6 +1,6 @@
 Book: https://rust-book.cs.brown.edu
 
 Last chapter
-    https://rust-book.cs.brown.edu/ch06-02-match.html
+    https://rust-book.cs.brown.edu/ch07-03-paths-for-referring-to-an-item-in-the-module-tree.html
 Last Line
-   Init
+    Hmm
